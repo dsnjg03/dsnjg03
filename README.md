@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Domagoj</h1>
+<h3 align="center">I am a self-taught developer, trained IT technician, and tech enthusiast specializing in building responsive web applications and robust desktop tools.</h3>
 
-<!--
-**dsnjg03/dsnjg03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📖 I’m currently learning **PHP, React Native, and Game Networking in Unity**
 
-Here are some ideas to get you started:
+- 🌐 Check out my full portfolio and devlogs at [https://domagoj-dev.vercel.app/](https://domagoj-dev.vercel.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Contact me at **domagojsenjug03@gmail.com**
+
+<h3 align="left">💻 Languages and Tools:</h3>
+
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css,sass,nextjs" alt="Frontend Tools" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongo" alt="Backend Tools" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,unity,blender" alt="Game Dev Tools" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,postman,ps" alt="Other Tools" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio" alt="IDEs" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+</p>
